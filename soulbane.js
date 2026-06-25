@@ -1,8 +1,5 @@
 {
-  "tokens": [
-    "8693766436:AAEKgWSa4fObyEHgzJnfEK0DWM1Lq-zZkxY",
-    "8222968558:AAHRhmuxdStZXeqP0hCV1Imx2Iih3wAj9eg",
-    "7696570099:AAEGuzGHQSipjSzCcWCCufy7mPSrmhnVz9Q",
-    "8770476635:AAHZvWEcOlnAX9FjIbnD3dIPZYOHiVTfLJE"
+  "bot_ids": [
+    8123456789
   ]
 }
